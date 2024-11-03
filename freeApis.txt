@@ -1,0 +1,9 @@
+Trivia API
+ * https://opentdb.com/api_config.php
+Exchange API
+ * https://www.exchangerate-api.com/
+ * API key https://v6.exchangerate-api.com/v6/e43a1c9b246a87fc7f79fe44/latest/USD
+IMDB
+ * https://www.omdbapi.com/
+ * API key https://www.omdbapi.com/?i=tt3896198&apikey=6cb8b80b
+ 
